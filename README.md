@@ -30,7 +30,7 @@ It maps active services, runtimes, virtual hosts, message brokers, and security 
 
 ### Target machines
 - Public SSH key installed for the `root` user (or equivalent privileged account)
-- Linux distribution supported (Debian, Ubuntu, Rocky, Alma, etc.)
+- Linux distribution supported (Debian, Ubuntu)
 
 ---
 
